@@ -81,6 +81,8 @@ This is a highly subjective document, obviously, but contributions are welome! I
 ***Pizza***
 [Pepe's Pizzeria](http://pepespizzeria.com/)
 
+### Massachussets
+
 ***Ice Cream***
 [Herrell's](http://www.herrells.com/)
 
