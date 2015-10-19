@@ -73,7 +73,13 @@ This is a highly subjective document, obviously, but contributions are very welo
 ***Ice Cream***
 [Blue Marble](http://nymag.com/listings/restaurant/blue-marble01/)
 
+***Buffalo Wings***
+[Gabriel's Gate](http://gabrielsgate.page.tl/)
+
 ### Connecticut
+
+***Pizza***
+[Pepe's Pizza](http://pepespizzeria.com/)
 
 ***Ice Cream***
 [Herrell's](http://www.herrells.com/)
