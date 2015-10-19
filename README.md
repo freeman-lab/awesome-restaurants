@@ -20,7 +20,7 @@ This is a highly subjective document, but contributions are very welome! If you 
 [Num Pang](http://nymag.com/listings/restaurant/num-pang/)
 
 ***Indian***
-[Daway](http://nymag.com/listings/restaurant/dawat/)
+[Dawat](http://nymag.com/listings/restaurant/dawat/)
 
 ***Espresso***
 [Abraco](http://nymag.com/listings/restaurant/abraco/)
@@ -39,3 +39,33 @@ This is a highly subjective document, but contributions are very welome! If you 
 
 ***Fancy Pizza***
 [L'asso](http://nymag.com/listings/restaurant/lasso/)
+
+***Gastropub***
+[The Spotted Pig](http://nymag.com/listings/restaurant/spotted-pig/)
+
+***Meat Pies***
+[Tuck Shop](http://nymag.com/listings/restaurant/tuck-shop/)
+
+***Fries***
+[Pomme Frites](http://nymag.com/listings/restaurant/pommes-frites/)
+
+***Mediterranean***
+[Cafe Mogador](http://nymag.com/listings/restaurant/cafe_mogador/)
+
+***24-hour Cafe***
+[Veselka](http://nymag.com/listings/restaurant/veselka/)
+
+***Drunk Food***
+[Punjabi Deli](http://nymag.com/listings/restaurant/punjabi-deli/)
+
+***Romanitc (and hip)***
+[Cafe Ino](http://nymag.com/listings/restaurant/ino/)
+
+***Italian (and fast)***
+[Pepe Rosso](http://nymag.com/listings/restaurant/pepe-rosso-to-go/)
+
+***Pretentious Sandwich***
+[Smile](http://nymag.com/listings/stores/the-smile/)
+
+***Bagel and Lox***
+[Russ & Daughters](http://nymag.com/listings/stores/russ_and_daughters/)
