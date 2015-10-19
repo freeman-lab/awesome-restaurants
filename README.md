@@ -4,7 +4,7 @@ This is a list of my favorite restaurants, organized by location. Each restauran
 
 ### contributions
 
-This is a highly subjective document, but contributions are very welome! If you strongly **disagree** that a restaurant should be lsited here, or disagree with how it's categorized, open an Issue. If you want to **add** a restaurant, submit a Pull Request. The caveats are that it needs to be a restaurant that I have (a) been to and (b) like enough to include on this list. If our preferenes diverge enough, fork and make your own!
+This is a highly subjective document, but contributions are very welome! If you strongly **disagree** that a restaurant should be lsited here, or disagree with how it's categorized, open an Issue. If you want to **add** a restaurant, submit a Pull Request. The caveats are that it needs to be a restaurant that I have (a) been to and (b) like enough to include on this list. If our preferences diverge too much, fork and make your own!
 
 # the list
 
