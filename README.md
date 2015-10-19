@@ -69,3 +69,11 @@ This is a highly subjective document, obviously, but contributions are very welo
 
 ***Bagel and Lox***
 [Russ & Daughters](http://nymag.com/listings/stores/russ_and_daughters/)
+
+***Ice Cream***
+[Blue Marble](http://nymag.com/listings/restaurant/blue-marble01/)
+
+### Connecticut
+
+***Ice Cream***
+[Herrell's](http://www.herrells.com/)
