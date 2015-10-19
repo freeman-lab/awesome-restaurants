@@ -10,5 +10,5 @@ This is a highly subjective document, but contributions are very welome! If you 
 
 ### New York
 
-Burger
+***Burger***
 [Great Jones Cafe](http://nymag.com/listings/restaurant/great-jones-cafe/)
