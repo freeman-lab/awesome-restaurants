@@ -83,3 +83,8 @@ This is a highly subjective document, obviously, but contributions are very welo
 
 ***Ice Cream***
 [Herrell's](http://www.herrells.com/)
+
+### Pennsylvania
+
+***Diner***
+[Tom Jones](http://www.yelp.com/biz/tom-jones-family-restaurant-brookhaven)
