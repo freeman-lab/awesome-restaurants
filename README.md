@@ -12,3 +12,6 @@ This is a highly subjective document, but contributions are very welome! If you 
 
 ***Burger***  
 [Great Jones Cafe](http://nymag.com/listings/restaurant/great-jones-cafe/)
+
+***Italian Sandwich***  
+[Alidoro](http://nymag.com/listings/restaurant/alidoro/)
