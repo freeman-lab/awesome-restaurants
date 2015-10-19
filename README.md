@@ -88,3 +88,8 @@ This is a highly subjective document, obviously, but contributions are very welo
 
 ***Diner***
 [Tom Jones](http://www.yelp.com/biz/tom-jones-family-restaurant-brookhaven)
+
+### California
+
+***Farm-to-table***
+[Farmstead](http://www.longmeadowranch.com/Farmstead/Restaurant)
