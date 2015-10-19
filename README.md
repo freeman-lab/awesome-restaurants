@@ -15,3 +15,27 @@ This is a highly subjective document, but contributions are very welome! If you 
 
 ***Italian Sandwich***  
 [Alidoro](http://nymag.com/listings/restaurant/alidoro/)
+
+***Cambodian Sandwich*** 
+[Num Pang](http://nymag.com/listings/restaurant/num-pang/)
+
+***Indian***  
+[Daway](http://nymag.com/listings/restaurant/dawat/)
+
+***Espresso***
+[Abraco](http://nymag.com/listings/restaurant/abraco/)
+
+***Iced Coffee***
+[Think Coffee](http://nymag.com/listings/restaurant/Think-Coffee/)
+
+***Arepas***
+[Caracas](http://nymag.com/listings/restaurant/caracas-arepa-bar/)
+
+***Greek***
+[Snack Taverna](http://nymag.com/listings/restaurant/snack-taverna/)
+
+***Pizza***
+[John's Pizzeria](http://nymag.com/listings/restaurant/johns_pizzeria00/)
+
+***Fancy Pizza***
+[L'asso](http://nymag.com/listings/restaurant/lasso/)
