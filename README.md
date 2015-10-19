@@ -79,7 +79,7 @@ This is a highly subjective document, obviously, but contributions are very welo
 ### Connecticut
 
 ***Pizza***
-[Pepe's Pizza](http://pepespizzeria.com/)
+[Pepe's Pizzeria](http://pepespizzeria.com/)
 
 ***Ice Cream***
 [Herrell's](http://www.herrells.com/)
