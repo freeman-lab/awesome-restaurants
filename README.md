@@ -10,16 +10,16 @@ This is a highly subjective document, but contributions are very welome! If you 
 
 ### New York
 
-***Burger***  
+***Burger***
 [Great Jones Cafe](http://nymag.com/listings/restaurant/great-jones-cafe/)
 
-***Italian Sandwich***  
+***Italian Sandwich***
 [Alidoro](http://nymag.com/listings/restaurant/alidoro/)
 
-***Cambodian Sandwich*** 
+***Cambodian Sandwich***
 [Num Pang](http://nymag.com/listings/restaurant/num-pang/)
 
-***Indian***  
+***Indian***
 [Daway](http://nymag.com/listings/restaurant/dawat/)
 
 ***Espresso***
