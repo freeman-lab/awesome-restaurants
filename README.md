@@ -8,7 +8,7 @@ This is a highly subjective document, obviously, but contributions are welome! I
 
 # the list
 
-### New York
+### New York City
 
 ***Burger***
 [Great Jones Cafe](http://nymag.com/listings/restaurant/great-jones-cafe/)
@@ -73,25 +73,27 @@ This is a highly subjective document, obviously, but contributions are welome! I
 ***Ice Cream***
 [Blue Marble](http://nymag.com/listings/restaurant/blue-marble01/)
 
+### Buffalo
+
 ***Buffalo Wings***
 [Gabriel's Gate](http://gabrielsgate.page.tl/)
 
-### Connecticut
+### New Haven
 
 ***Pizza***
 [Pepe's Pizzeria](http://pepespizzeria.com/)
 
-### Massachussets
+### Northampton
 
 ***Ice Cream***
 [Herrell's](http://www.herrells.com/)
 
-### Pennsylvania
+### Swarthmore
 
 ***Diner***
 [Tom Jones](http://www.yelp.com/biz/tom-jones-family-restaurant-brookhaven)
 
-### California
+### Saint Helena
 
 ***Farm-to-table***
 [Farmstead](http://www.longmeadowranch.com/Farmstead/Restaurant)
