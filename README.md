@@ -70,6 +70,9 @@ This is a highly subjective document, obviously, but contributions are welome! I
 ***Bagel and Lox***
 [Russ & Daughters](http://nymag.com/listings/stores/russ_and_daughters/)
 
+***Brunch***
+[Russ & Daughters Cafe](http://nymag.com/listings/restaurant/russ-daughters-cafe/)
+
 ***Ice Cream***
 [Blue Marble](http://nymag.com/listings/restaurant/blue-marble01/)
 
