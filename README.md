@@ -1,4 +1,4 @@
-# restaurants
+# awesome-restaurants
 
 This is a list of my favorite restaurants, organized by location. Each restaurant has a category. There are no stars or anything. If I really like something, it's on the list! If I haven't been to it, or I don't like it, it's not. Partially resurrected from my personal website circa 2010.
 
