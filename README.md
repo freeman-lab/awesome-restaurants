@@ -1,5 +1,7 @@
 # awesome-restaurants
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 This is a list of my favorite restaurants, organized by location. Each restaurant has a category. There are no stars or anything. If I really like something, it's on the list! If I haven't been to it, or I don't like it, it's not. Partially resurrected from my personal website circa 2010.
 
 ### contributions
