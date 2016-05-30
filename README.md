@@ -4,7 +4,7 @@
 
 > list of my favorite restaurants, organized by location, inspired by the [awesome](https://github.com/sindresorhus/awesome) lists
 
-There are no ratings. If I really like something, it's on the list! If I haven't been to it, or I don't like it, it's not. Partially resurrected from my personal website circa 2010.
+Every restaurant gets a category. There are no ratings. If I really like something, it's on the list! If I haven't been to it, or I don't like it, it's not. Partially resurrected from my personal website circa 2010.
 
 ### contributions
 
