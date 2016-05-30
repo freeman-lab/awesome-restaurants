@@ -2,11 +2,13 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a list of my favorite restaurants, organized by location. Each restaurant has a category. There are no stars or anything. If I really like something, it's on the list! If I haven't been to it, or I don't like it, it's not. Partially resurrected from my personal website circa 2010.
+> List of my favorite restaurants, organized by location, inspired by the [awesome lists](https://github.com/sindresorhus/awesome)
+
+There are no ratings. If I really like something, it's on the list! If I haven't been to it, or I don't like it, it's not. Partially resurrected from my personal website circa 2010.
 
 ### contributions
 
-This is a highly subjective document, obviously, but contributions are welome! If you strongly **disagree** that a restaurant should be listed here, disagree with how it's categorized, or just want to discuss why it's here, open an Issue. If you want to **add** a restaurant, submit a Pull Request. If I've been to it and like it, we'll add it to the list. If I haven't, we'll put it in the "To Try" category. And if our preferences diverge too much that's cool too, just fork and make your own!
+This is highly subjective, obviously, but contributions are welome! If you  **disagree** that a restaurant should be listed, open an Issue. If you want to **add** a restaurant, submit a Pull Request. I'll try to go to it, and if I like it, I'll add it to the list! 
 
 # the list
 
@@ -102,7 +104,3 @@ This is a highly subjective document, obviously, but contributions are welome! I
 
 ***Farm-to-table***
 [Farmstead](http://www.longmeadowranch.com/Farmstead/Restaurant)
-
-### To Try
-
-(submit a pull request!)
