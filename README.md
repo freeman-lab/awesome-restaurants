@@ -85,6 +85,11 @@ This is highly subjective, obviously, but contributions are welome! If you  **di
 ***Buffalo Wings***
 [Gabriel's Gate](http://gabrielsgate.page.tl/)
 
+## Philadelphia
+
+***Balmy Summer Cocktails***
+[a.kitchen](http://www.akitchenphilly.com/)
+
 ### New Haven
 
 ***Pizza***
